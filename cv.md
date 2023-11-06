@@ -31,3 +31,6 @@ Also have an expertise in Scrum covering role of Scrum Master and having PSM I c
 - English \- Upper Intermediate
 - Russian \- Native
 - Latvian \- Intermediate
+
+### Education
+**University** Rostov State University of Economics (2006-2011)
