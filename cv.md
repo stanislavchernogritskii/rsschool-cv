@@ -13,3 +13,21 @@
 Skilled software developer with an experience in a various programming languages and technologies:
 Perl (Mojolicious, Mason); .NET/C#; Amazon Web Services (certified).
 Also have an expertise in Scrum covering role of Scrum Master and having PSM I certificate.
+
+### Skills
+- .NET, C#
+- Perl (Mojolicious, Mason)
+- Amazon Web Services
+- HTML, CSS
+- MySQL
+- Docker
+
+### Certificates
+- AWS Certified Solutions Architect - Associate
+- AWS Certified Developer - Associate
+- Professional Scrum Master I
+
+### Languages
+- English \- Upper Intermediate
+- Russian \- Native
+- Latvian \- Intermediate
